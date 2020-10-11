@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>beijing.jpg</file>
+        <file>daitu.jpg</file>
+        <file>image.qrc</file>
+        <file>judger.jpg</file>
+        <file>kakaxi.jpg</file>
+        <file>lunhuiyan.jpg</file>
+        <file>mingren.jpg</file>
+        <file>peien.jpg</file>
+        <file>woailuo.jpg</file>
+        <file>xiaoying.jpg</file>
+        <file>xielunyan.gif</file>
+        <file>you.jpg</file>
+        <file>zuozhu.jpg</file>
+        <file>goupai.png</file>
+    </qresource>
+</RCC>
